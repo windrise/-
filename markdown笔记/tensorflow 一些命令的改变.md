@@ -4,7 +4,7 @@
 >
 > tf.train.SummaryWriter改为：tf.summary.FileWriter
 >
->  tf.merge_all_summaries()改为：summary_op = tf.summaries.merge_all()
+>  tf.merge_all_summaries()改为：summary_op = tf.summary.merge_all()
 >
 > tf.histogram_summary(var.op.name, var)改为：  tf.summary.histogram()
 >
