@@ -29,3 +29,11 @@
 > concated = tf.concat(1, [indices, sparse_labels])改为：
 >
 > concated = tf.concat([indices, sparse_labels], 1)
+>
+> 初始化变量： tf.global_variables_initializer()
+
+
+
+## 交互式会话（InteractiveSession）
+
+为了方便使用IPython之类的python交互环境，可以使用交互式会话（InteractiveSession)来代替Session, 使用类似Tensor.run()和Operation.eval() 来代替Session.run()，避免使用一个变量持有会话
