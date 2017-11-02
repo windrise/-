@@ -2,13 +2,9 @@
 
 `pip install itchat -i https://pypi.tuna.tsinghua.edu.cn/simple`
 
-<prep><code> 
+`pip install superset -i https://pypi.douban.com/simple`
 
 import itchat 
-
-
-
-</code></pre>
 
 
 

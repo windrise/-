@@ -30,4 +30,4 @@ https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/proxy.pac
 
 **设置开机自启动**
 
-> 编辑/etc/rc.local文件 在exit之前加入sslocal -c /home/ss.json -d start
+> 编辑/etc/rc.local文件 在exit之前加入sslocal -c /etc/ss.json -d start
