@@ -32,7 +32,7 @@ https://raw.githubusercontent.com/breakwa11/gfw_whitelist/master/proxy.pac
 
 > 编辑/etc/rc.local文件 在exit之前加入sslocal -c /etc/ss.json -d start
 
-
+小技巧
 
 Ubuntu自带的PDF阅读器不太好用，做笔记也不方便，推荐使用Okular这款PDF阅读软件
 
