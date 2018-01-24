@@ -37,3 +37,9 @@
 > git branch -a  # 显示当前所有分支
 >
 > git status 查看状态
+>
+> 如果push出现错误，强制push
+>
+> git push -f 
+>
+> 
