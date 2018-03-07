@@ -31,3 +31,10 @@
 > 对方拿到environment.yml文件后，将改文件放在工作目录下，可以通过一下命令创建
 >
 > conda env create -f environment.yml
+>
+> 删除环境
+>
+> conda remove -n pyname --all
+
+
+
