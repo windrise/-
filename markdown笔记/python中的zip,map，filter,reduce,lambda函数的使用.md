@@ -76,6 +76,13 @@ python中的zip,map，filter,reduce,lambda函数的使用
   > [(1, 4), (2, 5), (3, 6)]
   > >>> zip(*zipped)
   > [(1, 2, 3), (4, 5, 6)]
+  >
+  > #遍历字典
+  > doc_dict={'title':[], 'link':[]}
+  > for title,link in zip(doc_dict['title'],doc_dict['link']):
+  >     print(title)
+  >     print(link)
+  > 	
   > ```
 
 
