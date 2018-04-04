@@ -34,7 +34,7 @@ python中的zip,map，filter,reduce,lambda函数的使用
   >
   > ​
 
-* map（map(function, iterable,...)）
+* map          map(function, iterable,...)
 
   > map()函数会根据提供的函数对指定序列做映射。iterable，一个或多个序列。
   >

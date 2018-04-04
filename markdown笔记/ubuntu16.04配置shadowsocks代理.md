@@ -46,3 +46,5 @@ Ubuntu自带的PDF阅读器不太好用，做笔记也不方便，推荐使用Ok
 
 在命令行键入 sudo apt-get install kazam等待安装完成即可用
 
+
+

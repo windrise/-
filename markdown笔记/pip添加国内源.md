@@ -7,6 +7,10 @@
 import itchat 
 
 
+python升级的时候需要 加上 --user
+python install --user --upgrade tensorflow
+
+
 
 
 
